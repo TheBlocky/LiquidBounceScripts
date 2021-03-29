@@ -1,0 +1,2 @@
+# LiquidBounceScripts
+LiquidBounce Scripts
